@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="images">
+    <file>Ressources/Images/1200px-Logo_CNEP_banque_DZ.svg.png</file>
+    <file>Ressources/Images/background1.png</file>
+    <file>Ressources/Images/logout.png</file>
+    <file>Ressources/Images/background.png</file>
+    <file>Ressources/Images/CNEP_FLOW.png</file>
+  </qresource>
+  <qresource prefix="Icons">
+    <file>Ressources/Icons/filtre.png</file>
+    <file>Ressources/Icons/exporter-le-fichier.png</file>
+    <file>Ressources/Icons/trier.png</file>
+    <file>Ressources/Icons/accounts.png</file>
+    <file>Ressources/Icons/clinetsNewIcon.png</file>
+    <file>Ressources/Icons/movementsIcon.svg</file>
+    <file>Ressources/Icons/searchIcon.svg</file>
+  </qresource>
+  <qresource prefix="fonts">
+    <file>Ressources/Fonts/Nunito-VariableFont_wght.ttf</file>
+  </qresource>
+</RCC>
